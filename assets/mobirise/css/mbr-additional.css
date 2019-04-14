@@ -1035,6 +1035,28 @@ body {
 .cid-rnzjscmxCa .icons-menu .mbr-iconfont:hover {
   color: #c1c1c1 !important;
 }
+.cid-rnD4PT66wR {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rnD4PT66wR .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rnD4PT66wR .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rnD4PT66wR .mbr-text {
+  color: #000000;
+  letter-spacing: 0.03em;
+}
+.cid-rnD4PT66wR .mbr-text B {
+  color: #4d0101;
+}
 .cid-rnzjwVqeIP {
   padding-top: 90px;
   padding-bottom: 90px;
