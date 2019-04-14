@@ -811,7 +811,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rnzjscmxCa .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 6.2rem);
   }
 }
 .cid-rnzjscmxCa .navbar.collapsed .dropdown-menu {
